@@ -1,7 +1,8 @@
-# AlgoEd_ML
-Machine learning course for AlgoEd
+# Machine learning course for AlgoEd
 
 ## Getting Started
+Welcome to the course! In this tutorial, I'll show you how to install Anaconda and the required packages we'll be using for this course.
+
 ### Download Anaconda
 First, we'll need to install Anaconda, an all-in-one data science tool. The installer takes up about 1 GB of space on your computer. You can download Anaconda [here](https://www.anaconda.com/download). You can click the small "Skip registration" link right below the large green "Submit" button if you don't want to provide them your email address.
 
@@ -18,5 +19,5 @@ Once you have Anaconda downloaded, launch the Anaconda Prompt, Anaconda's comman
 conda create -n algoed --yes
 conda activate algoed
 conda config --env --add channels conda-forge
-conda install python numpy pandas scikit-learn spyder --yes
+conda install python numpy pandas scikit-learn spyder jupyter --yes
 ```
