@@ -1,4 +1,4 @@
-# Machine learning course for AlgoEd
+# Introduction to Machine Learning in Genomics (AlgoEd)
 
 ## Getting Started
 Welcome to the course! In this tutorial, I'll show you how to install Anaconda and the required packages we'll be using for this course.
