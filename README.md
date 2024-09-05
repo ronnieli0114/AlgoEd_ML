@@ -19,7 +19,7 @@ Once you have Anaconda downloaded, launch the Anaconda Prompt, Anaconda's comman
 conda create -n algoed --yes
 conda activate algoed
 conda config --env --add channels conda-forge
-conda install python numpy pandas scikit-learn jupyter --yes
+conda install python numpy pandas matplotlib scikit-learn jupyter --yes
 ```
 
 ## Run Jupyter Notebook
