@@ -19,11 +19,11 @@ Once you have Anaconda downloaded, launch the Anaconda Prompt, Anaconda's comman
 conda create -n algoed --yes
 conda activate algoed
 conda config --env --add channels conda-forge
-conda install python numpy pandas matplotlib scikit-learn jupyter --yes
+conda install python=3.12 numpy pandas matplotlib scikit-learn jupyter --yes
 ```
 
 ## Run Jupyter Notebook
-We will be using Jupyter Notebook for the course. It is an interactive notebook-like format that allows us to run code and add text/images. Once you have everything installed, open up another instance of Anaconda Prompt, and run the following commands one by one:
+We will be using Jupyter Notebook for the course. It is an interactive notebook-like format that allows us to run code and add text/images. Once you have everything installed, open up another instance of Anaconda Prompt, and run the following commands **one by one**:
 1. Activate our `algoed` environment
 2. Run Jupyter Notebook
 ```
