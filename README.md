@@ -31,3 +31,14 @@ conda activate algoed
 jupyter notebook
 ```
 You should see some command-line text, and then a browser window should open up with the Jupyter logo and listing your current directory. **Do not close Anaconda Prompt!!!** This will cause Jupyter Notebook to stop running.
+
+## Week 2 onward
+For all classes involving coding, you will *not* need to install anything else. Simply follow these instructions:
+* On macOS: open Terminal
+* On Windows: open Anaconda Prompt
+
+In Terminal/Anaconda Prompt, type these commands __one by one__:
+`conda activate algoed`
+`jupyter notebook`
+
+Do *NOT* close Terminal/Anaconda Prompt! You will see a bunch of text on the screen, and it will open a browser window. Navigate to where you saved your notebook using the browser, and open it using Jupyter notebook. Now, let's begin coding!
