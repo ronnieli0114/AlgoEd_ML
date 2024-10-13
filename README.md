@@ -38,7 +38,8 @@ For all classes involving coding, you will *not* need to install anything else. 
 * On Windows: open Anaconda Prompt
 
 In Terminal/Anaconda Prompt, type these commands __one by one__:
-`conda activate algoed`
-`jupyter notebook`
-
+```
+conda activate algoed
+jupyter notebook
+```
 Do *NOT* close Terminal/Anaconda Prompt! You will see a bunch of text on the screen, and it will open a browser window. Navigate to where you saved your notebook using the browser, and open it using Jupyter notebook. Now, let's begin coding!
